@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Gestionar vuelo Expedia" skipped="0" tests="1" time="67.5" timestamp="2019-12-24 12:17:23"><testcase name="consultar vuelo"><failure message="The following error occurred: Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">The following error occurred: Expected enabled element was not enabled</failure><system-err>The following error occurred: Expected enabled element was not enabled&#13;
+tasks.Agregar.performAs(Ingresar.java:18)&#13;
+stepdefinitions.LinioStepDefinitions.ingresaLosDatosBasicos(ExpediaStepDefinitions.java:33)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
